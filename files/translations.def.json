@@ -1,0 +1,6 @@
+{
+  "key_one": "value_one_brand_def",
+  "nested_key": {
+    "key_two": "value_two_brand_def"
+  }
+}
